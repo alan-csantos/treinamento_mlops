@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Alan/Documents/repos/treinamento_mlops/mlruns/1/191c1b249ab544328073d153b27f4308/artifacts
+end_time: 1672325955469
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 191c1b249ab544328073d153b27f4308
+run_uuid: 191c1b249ab544328073d153b27f4308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672325948133
+status: 3
+tags: []
+user_id: Alan
